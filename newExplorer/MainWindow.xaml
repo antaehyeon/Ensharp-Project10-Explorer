@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:newExplorer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="491" Width="945">
+        Title="MainWindow" Height="529.51" Width="946.375">
     <Grid>
         <TreeView x:Name="tv_path" HorizontalAlignment="Left" Height="412" Margin="10,38,0,0" VerticalAlignment="Top" Loaded="tv_path_Loaded" Width="172"/>
         <ScrollViewer HorizontalAlignment="Left" Height="412" Margin="187,38,0,0" VerticalAlignment="Top" Width="740">
@@ -14,5 +14,6 @@
         <TextBox x:Name="txtBox_path" HorizontalAlignment="Left" Height="22" Margin="98,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="829" KeyDown="txtBox_path_KeyDown"/>
         <Button x:Name="btn_back" Content="＜" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="39" Height="22" Click="btn_back_Click"/>
         <Button x:Name="btn_foward" Content="＞" HorizontalAlignment="Left" Margin="54,10,0,0" VerticalAlignment="Top" Width="39" Height="22" RenderTransformOrigin="1.205,0.545" Click="btn_foward_Click"/>
+        <CheckBox x:Name="chkBox_Hidden" Content="숨김파일" HorizontalAlignment="Left" Margin="13,457,0,0" VerticalAlignment="Top" Height="34" Width="115" FontFamily="Segoe UI Historic" FontSize="16" FontWeight="Bold"/>
     </Grid>
 </Window>

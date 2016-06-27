@@ -16,3 +16,21 @@ c:\users\hyeon\documents\visual studio 2015\Projects\newExplorer\newExplorer\obj
 c:\users\hyeon\documents\visual studio 2015\Projects\newExplorer\newExplorer\obj\Debug\FolderIcon.baml
 c:\users\hyeon\documents\visual studio 2015\Projects\newExplorer\newExplorer\obj\Debug\FileIcon.g.cs
 c:\users\hyeon\documents\visual studio 2015\Projects\newExplorer\newExplorer\obj\Debug\FolderIcon.g.cs
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\bin\Debug\newExplorer.exe.config
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\bin\Debug\newExplorer.exe
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\bin\Debug\newExplorer.pdb
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.csprojResolveAssemblyReference.cache
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\FileIcon.baml
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\FolderIcon.baml
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\FileIcon.g.cs
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\FolderIcon.g.cs
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\App.g.cs
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer_MarkupCompile.cache
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer_MarkupCompile.lref
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\MainWindow.baml
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.g.resources
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.Properties.Resources.resources
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.csproj.GenerateResource.Cache
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.exe
+C:\Users\HYEON\Documents\Ensharp-Project10-Explorer\newExplorer\obj\Debug\newExplorer.pdb
