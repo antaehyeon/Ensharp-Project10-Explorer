@@ -1,0 +1,18 @@
+﻿<Window x:Class="newExplorer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:newExplorer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="491" Width="945">
+    <Grid>
+        <TreeView x:Name="tv_path" HorizontalAlignment="Left" Height="412" Margin="10,38,0,0" VerticalAlignment="Top" Loaded="tv_path_Loaded" Width="172"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="412" Margin="187,38,0,0" VerticalAlignment="Top" Width="740">
+            <WrapPanel x:Name="wp_item" Width="Auto" Height="Auto" ClipToBounds="False" SnapsToDevicePixels="False" Grid.IsSharedSizeScope="False" ScrollViewer.CanContentScroll="False" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+        </ScrollViewer>
+        <TextBox x:Name="txtBox_path" HorizontalAlignment="Left" Height="22" Margin="98,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="829" KeyDown="txtBox_path_KeyDown"/>
+        <Button x:Name="btn_back" Content="＜" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="39" Height="22" Click="btn_back_Click"/>
+        <Button x:Name="btn_foward" Content="＞" HorizontalAlignment="Left" Margin="54,10,0,0" VerticalAlignment="Top" Width="39" Height="22" RenderTransformOrigin="1.205,0.545" Click="btn_foward_Click"/>
+    </Grid>
+</Window>

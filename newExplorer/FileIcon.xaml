@@ -1,0 +1,6 @@
+﻿<UserControl x:Class="newExplorer.FileIcon"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             >
+    <StackPanel x:Name="sp" MouseEnter="sp_MouseEnter" MouseLeave="sp_MouseLeave" MouseLeftButtonDown="sp_MouseLeftButtonDown"/>
+</UserControl>
